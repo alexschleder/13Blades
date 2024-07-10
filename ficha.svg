@@ -46,11 +46,6 @@
        id="guide5"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="504.96209,711.98554"
-       orientation="1,0"
-       id="guide25"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="35.001786,530.68241"
        orientation="0,-1"
        id="guide48"
@@ -96,6 +91,18 @@
   <defs
      id="defs1">
     <rect
+       x="509"
+       y="706"
+       width="100.5"
+       height="28"
+       id="rect24" />
+    <rect
+       x="511.94531"
+       y="543.05801"
+       width="154.85638"
+       height="30.405591"
+       id="rect22" />
+    <rect
        x="44.725944"
        y="41.744214"
        width="141.1352"
@@ -107,6 +114,12 @@
        width="291.21559"
        height="117.28136"
        id="rect1" />
+    <rect
+       x="511.94531"
+       y="543.05798"
+       width="154.85638"
+       height="30.40559"
+       id="rect22-5" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -182,7 +195,301 @@
        transform="translate(-9.8392054,-13.001808)"><tspan
          x="44.726562"
          y="63.939453"
-         id="tspan4">13 BLADES</tspan></text>
+         id="tspan21">13 BLADES</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Talentos"
+     style="display:inline"
+     transform="translate(1.3167987,294.17062)">
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.789334"
+       id="rect20"
+       width="345.02463"
+       height="1.5473349"
+       x="501.3082"
+       y="238.76688"
+       inkscape:label="Divisa"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:#000000"
+       id="rect21"
+       width="1.7981567"
+       height="282.84268"
+       x="674.22021"
+       y="238.98788"
+       ry="0"
+       inkscape:label="Linha meio"
+       sodipodi:insensitive="true" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer20"
+       inkscape:label="Talentos 2"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         transform="translate(195.80037,-297.69781)"
+         id="text21-2"
+         style="font-size:24px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';white-space:pre;shape-inside:url(#rect22-5);display:inline;fill:#000000"><tspan
+           x="511.94531"
+           y="565.25391"
+           id="tspan26">Talento 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.44006"
+         y="418.3573"
+         id="text23-95-7"
+         inkscape:label="HabTal4"><tspan
+           sodipodi:role="line"
+           id="tspan23-84-4"
+           x="678.44006"
+           y="418.3573"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.46088"
+         y="377.67371"
+         id="text23-99-0"
+         inkscape:label="HabTal3"><tspan
+           sodipodi:role="line"
+           id="tspan23-7-8"
+           x="678.46088"
+           y="377.67371"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.74341"
+         y="340.28156"
+         id="text23-8-1"
+         inkscape:label="HabTal2"><tspan
+           sodipodi:role="line"
+           id="tspan23-0-6"
+           x="678.74341"
+           y="340.28156"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.612"
+         y="301.39877"
+         id="text23-1"
+         inkscape:label="HabTal1"><tspan
+           sodipodi:role="line"
+           id="tspan23-72"
+           x="678.612"
+           y="301.39877"
+           style="font-size:16px">Habilidade </tspan></text>
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.996191"
+         id="rect36-5-2"
+         width="168.49789"
+         height="0.70821404"
+         x="677.76318"
+         y="407.68713"
+         inkscape:label="Linha hab 4" />
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.996191"
+         id="rect36-8-0"
+         width="168.49789"
+         height="0.70821404"
+         x="677.789"
+         y="366.97598"
+         inkscape:label="Linha Hab 3" />
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.996191"
+         id="rect36-3-1"
+         width="168.49789"
+         height="0.70821404"
+         x="677.76953"
+         y="329.45203"
+         inkscape:label="Linha hab2" />
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.996191"
+         id="rect36-51"
+         width="168.49789"
+         height="0.70821404"
+         x="677.66168"
+         y="290.4826"
+         inkscape:label="Linha hab 1" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.31158"
+         y="499.50278"
+         id="text26-5-4"
+         inkscape:label="Item2"><tspan
+           sodipodi:role="line"
+           id="tspan25-5-7"
+           x="678.31158"
+           y="499.50278">Item [Carga     ]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="678.30292"
+         y="466.56085"
+         id="text26-5-1"
+         inkscape:label="Item1"><tspan
+           sodipodi:role="line"
+           id="tspan25-5-8"
+           x="678.30292"
+           y="466.56085">Item [Carga     ]</tspan></text>
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.997886"
+         id="rect36-3-7-2"
+         width="169.1843"
+         height="0.70774156"
+         x="677.08142"
+         y="486.12344"
+         inkscape:label="Linha hab2" />
+      <rect
+         style="display:inline;fill:#000000;stroke-width:0.997886"
+         id="rect36-1-3"
+         width="169.1843"
+         height="0.70774156"
+         x="677.06641"
+         y="452.99789"
+         inkscape:label="Linha hab 1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer19"
+       inkscape:label="Talento 1">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="503.38553"
+         y="418.43698"
+         id="text23-95"
+         inkscape:label="HabTal4"><tspan
+           sodipodi:role="line"
+           id="tspan23-84"
+           x="503.38553"
+           y="418.43698"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="503.40634"
+         y="377.7489"
+         id="text23-99"
+         inkscape:label="HabTal3"><tspan
+           sodipodi:role="line"
+           id="tspan23-7"
+           x="503.40634"
+           y="377.7489"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="503.68884"
+         y="340.28262"
+         id="text23-8"
+         inkscape:label="HabTal2"><tspan
+           sodipodi:role="line"
+           id="tspan23-0"
+           x="503.68884"
+           y="340.28262"
+           style="font-size:16px">Habilidade </tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000"
+         x="503.55746"
+         y="301.39005"
+         id="text23"
+         inkscape:label="HabTal1"><tspan
+           sodipodi:role="line"
+           id="tspan23"
+           x="503.55746"
+           y="301.39005"
+           style="font-size:16px">Habilidade </tspan></text>
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36-5"
+         width="170.05922"
+         height="0.70708787"
+         x="502.95279"
+         y="407.62485"
+         inkscape:label="Linha hab 4" />
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36-8"
+         width="170.05922"
+         height="0.70708787"
+         x="502.97882"
+         y="366.97842"
+         inkscape:label="Linha Hab 3" />
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36-3"
+         width="170.05922"
+         height="0.70708787"
+         x="502.9592"
+         y="329.51413"
+         inkscape:label="Linha hab2" />
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36"
+         width="170.05922"
+         height="0.70708787"
+         x="502.85034"
+         y="290.60669"
+         inkscape:label="Linha hab 1" />
+      <text
+         xml:space="preserve"
+         transform="translate(22.371278,-297.87773)"
+         id="text21"
+         style="font-size:24px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';white-space:pre;shape-inside:url(#rect22);display:inline;fill:#000000"><tspan
+           x="511.94531"
+           y="565.25391"
+           id="tspan29">Talento 1</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="translate(-1.3167987,-294.17062)"
+         id="text24"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';white-space:pre;shape-inside:url(#rect24);display:inline;fill:#000000" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="501.56604"
+         y="499.69656"
+         id="text26-5"
+         inkscape:label="Item2"><tspan
+           sodipodi:role="line"
+           id="tspan25-5"
+           x="501.56604"
+           y="499.69656">Item [Carga     ]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000"
+         x="501.6416"
+         y="466.57568"
+         id="text26"
+         inkscape:label="Item1"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="501.6416"
+           y="466.57568">Item [Carga     ]</tspan></text>
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36-3-7"
+         width="170.05922"
+         height="0.70708787"
+         x="502.97955"
+         y="486.11182"
+         inkscape:label="Linha hab2" />
+      <rect
+         style="display:inline;fill:#000000"
+         id="rect36-1"
+         width="170.05922"
+         height="0.70708787"
+         x="502.96445"
+         y="453.01688"
+         inkscape:label="Linha hab 1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -343,7 +650,8 @@
        id="layer7-8"
        inkscape:label="Habilidade 3"
        style="display:inline"
-       transform="translate(-1.1832013,121.56134)">
+       transform="translate(0.93811904,118.73291)"
+       sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
          id="layer6-0"
@@ -387,6 +695,163 @@
            x="522.18066"
            y="207.61789"
            id="tspan28-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g7"
+       inkscape:label="Habilidade 4"
+       style="display:inline"
+       transform="translate(0.8167987,177.17062)"
+       sodipodi:insensitive="true">
+      <g
+         inkscape:groupmode="layer"
+         id="g2"
+         inkscape:label="HCircleLayer"
+         transform="translate(-0.31501152,2.2576132)"
+         style="display:inline"
+         sodipodi:insensitive="true">
+        <circle
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle1"
+           r="6.0733824"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircle" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle2"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircleInternal"
+           r="5.0884585" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="522.18066"
+         y="167.61789"
+         id="text7"
+         inkscape:label="txthab4"
+         sodipodi:insensitive="true"><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="167.61789"
+           id="tspan5">Habilidade 4: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan4">Lorem ipsum dolor sit amet, </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="187.61789"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">consectetur adipiscing elit. Etiam eget ligula eu lectus </tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="207.61789"
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g16"
+       inkscape:label="Habilidade 5"
+       style="display:inline"
+       transform="translate(0.8167987,235.17062)"
+       sodipodi:insensitive="true">
+      <g
+         inkscape:groupmode="layer"
+         id="g8"
+         inkscape:label="HCircleLayer"
+         transform="translate(-0.31501152,2.2576132)"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle7"
+           r="6.0733824"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircle" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle8"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircleInternal"
+           r="5.0884585" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="522.18066"
+         y="167.61789"
+         id="text16"
+         inkscape:label="txthab5"><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="167.61789"
+           id="tspan14">Habilidade 5: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13">Lorem ipsum dolor sit amet, </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="187.61789"
+           id="tspan15"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">consectetur adipiscing elit. Etiam eget ligula eu lectus </tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="207.61789"
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g20"
+       inkscape:label="Habilidade 6"
+       style="display:inline"
+       transform="translate(1.3167987,294.17062)">
+      <g
+         inkscape:groupmode="layer"
+         id="g17"
+         inkscape:label="HCircleLayer"
+         transform="translate(-0.31501152,2.2576132)"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle16"
+           r="6.0733824"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircle" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle17"
+           cy="159.42545"
+           cx="511.78094"
+           inkscape:label="HCircleInternal"
+           r="5.0884585" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="522.18066"
+         y="167.61789"
+         id="text20"
+         inkscape:label="txthab4"><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="167.61789"
+           id="tspan18">Habilidade 6: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan17">Lorem ipsum dolor sit amet, </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="187.61789"
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">consectetur adipiscing elit. Etiam eget ligula eu lectus </tspan><tspan
+           sodipodi:role="line"
+           x="522.18066"
+           y="207.61789"
+           id="tspan20"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
     </g>
   </g>
