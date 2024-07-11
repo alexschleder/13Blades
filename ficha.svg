@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showguides="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="669.27657"
-     inkscape:cy="336.93638"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="864.74998"
+     inkscape:cy="685.24998"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g41-1-3"
+     inkscape:current-layer="layer25"
      showgrid="true">
     <sodipodi:guide
        position="38.26553,767.04994"
@@ -73,7 +73,7 @@
        id="guide50"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="860.53275,133.85647"
+       position="864.74998,210.50002"
        orientation="1,0"
        id="guide47"
        inkscape:locked="false" />
@@ -459,7 +459,7 @@
        transform="translate(-9.8392054,-13.001808)"><tspan
          x="44.726562"
          y="63.939453"
-         id="tspan26">13 BLADES</tspan></text>
+         id="tspan66">13 BLADES</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2859,7 +2859,7 @@
            id="text47"
            inkscape:label="pontoA"><tspan
              sodipodi:role="line"
-             id="tspan47"
+             id="tspan21"
              style="font-size:85.3333px;fill:#f9f9f9;stroke-width:1"
              x="1002.6066"
              y="185.24234">.</tspan></text>
@@ -2871,7 +2871,7 @@
            id="text49"
            inkscape:label="pontoA"><tspan
              sodipodi:role="line"
-             id="tspan49"
+             id="tspan29"
              style="font-size:85.3333px;fill:#f9f9f9;stroke-width:1"
              x="989.29309"
              y="185.1351">.</tspan></text>
@@ -2883,7 +2883,7 @@
            id="text50"
            inkscape:label="pontoA"><tspan
              sodipodi:role="line"
-             id="tspan50"
+             id="tspan42"
              style="font-size:85.3333px;fill:#f9f9f9;stroke-width:1"
              x="975.97955"
              y="185.1351">.</tspan></text>
@@ -2904,10 +2904,10 @@
            style="font-size:85.3333px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:1"
            x="936.03888"
            y="185.07445"
-           id="text56"
+           id="text43"
            inkscape:label="pontoA"><tspan
              sodipodi:role="line"
-             id="tspan56"
+             id="tspan43"
              style="font-size:85.3333px;fill:#f9f9f9;stroke-width:1"
              x="936.03888"
              y="185.07445">.</tspan></text>
@@ -2919,7 +2919,7 @@
            id="text57"
            inkscape:label="pontoA"><tspan
              sodipodi:role="line"
-             id="tspan57"
+             id="tspan44"
              style="font-size:85.3333px;fill:#f9f9f9;stroke-width:1"
              x="949.35242"
              y="185.1351">.</tspan></text>
@@ -3215,7 +3215,7 @@
          id="text33"
          transform="scale(0.97705989,1.0234787)"><tspan
            sodipodi:role="line"
-           id="tspan42"
+           id="tspan45"
            x="867.91919"
            y="183.19875"
            style="font-size:16px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Contituição</tspan></text>
@@ -3231,7 +3231,7 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer23"
+     id="g74"
      inkscape:label="Itens"
      style="display:inline"
      transform="matrix(0.43478273,0,0,0.43478273,949.40885,365.46372)">
@@ -3493,7 +3493,7 @@
          id="text22"
          inkscape:label="pontoA"><tspan
            sodipodi:role="line"
-           id="tspan21"
+           id="tspan46"
            style="font-size:220.8px;fill:#f9f9f9;stroke-width:2.3"
            x="-79.443352"
            y="488.04831">.</tspan></text>
@@ -3538,15 +3538,15 @@
          inkscape:label="caixa5w" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000;stroke-width:2.3"
-         x="-203.04384"
+         style="font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:2.3"
+         x="-197.75822"
          y="727.46338"
          id="text45-4-1"
          inkscape:label="Item5"><tspan
            sodipodi:role="line"
            id="tspan45-2-2"
            style="stroke-width:2.3"
-           x="-203.04384"
+           x="-197.75822"
            y="727.46338">Item5</tspan></text>
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:87.6715;paint-order:stroke fill markers"
@@ -3570,15 +3570,15 @@
          inkscape:label="caixa4w" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000;stroke-width:2.3"
-         x="-203.43591"
+         style="font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:2.3"
+         x="-198.1503"
          y="681.89294"
          id="text44-8"
          inkscape:label="Item4"><tspan
            sodipodi:role="line"
            id="tspan44-7"
            style="stroke-width:2.3"
-           x="-203.43591"
+           x="-198.1503"
            y="681.89294">Item4</tspan></text>
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:87.6715;paint-order:stroke fill markers"
@@ -3602,15 +3602,15 @@
          inkscape:label="caixa3w" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000;stroke-width:2.3"
-         x="-203.48535"
+         style="font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:2.3"
+         x="-198.19974"
          y="635.58575"
          id="text45-4"
          inkscape:label="Item3"><tspan
            sodipodi:role="line"
            id="tspan45-2"
            style="stroke-width:2.3"
-           x="-203.48535"
+           x="-198.19974"
            y="635.58575">Item3</tspan></text>
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:87.6715;paint-order:stroke fill markers"
@@ -3634,15 +3634,15 @@
          inkscape:label="caixa2w" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000;stroke-width:2.3"
-         x="-203.07347"
+         style="font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:2.3"
+         x="-197.78786"
          y="587.3739"
          id="text44"
          inkscape:label="Item2"><tspan
            sodipodi:role="line"
-           id="tspan44"
+           id="tspan54"
            style="stroke-width:2.3"
-           x="-203.07347"
+           x="-197.78786"
            y="587.3739">Item2</tspan></text>
       <rect
          style="display:inline;fill:#000000;fill-opacity:1;stroke-width:87.6715;paint-order:stroke fill markers"
@@ -3666,15 +3666,15 @@
          inkscape:label="caixa1w" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#000000;stroke-width:2.3"
-         x="-203.1319"
+         style="font-size:36.8px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#000000;stroke-width:2.3"
+         x="-197.84628"
          y="542.22577"
          id="text45"
          inkscape:label="Item1"><tspan
            sodipodi:role="line"
-           id="tspan45"
+           id="tspan65"
            style="stroke-width:2.3"
-           x="-203.1319"
+           x="-197.84628"
            y="542.22577">Item1</tspan></text>
     </g>
   </g>
