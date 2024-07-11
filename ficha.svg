@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showguides="true"
-     inkscape:zoom="0.5"
-     inkscape:cx="500"
-     inkscape:cy="549"
+     inkscape:zoom="1"
+     inkscape:cx="239"
+     inkscape:cy="317.5"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g31"
+     inkscape:current-layer="layer5"
      showgrid="true">
     <sodipodi:guide
        position="38.26553,767.04994"
@@ -44,21 +44,6 @@
        position="151.10209,745.71996"
        orientation="0,-1"
        id="guide5"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="35.001786,530.68241"
-       orientation="0,-1"
-       id="guide48"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="47.906484,497.97873"
-       orientation="0,-1"
-       id="guide51"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="60.75,475.25"
-       orientation="0,-1"
-       id="guide52"
        inkscape:locked="false" />
     <sodipodi:guide
        position="1020.5,686"
@@ -147,41 +132,179 @@
          y="36.274353">Vínculos</tspan></text>
     <g
        inkscape:groupmode="layer"
-       id="g29"
-       inkscape:label="CampoNome copiar"
-       transform="translate(169.37352,-30.405596)">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
-         id="rect27"
-         width="230.53598"
-         height="1.1181448"
-         x="38.347225"
-         y="92.38916"
-         inkscape:label="camponome" />
+       id="g57"
+       inkscape:label="Vínculo2"
+       transform="translate(0,33.333333)">
+      <g
+         inkscape:groupmode="layer"
+         id="g54"
+         inkscape:label="rectFisica copiar"
+         transform="matrix(0.96891308,0,0,1,97.000021,-345.7608)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
+           id="rect53"
+           width="13.268175"
+           height="12.855709"
+           x="369.39664"
+           y="395.73346"
+           ry="0"
+           rx="0" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
+           id="rect54"
+           width="11.170018"
+           height="10.822777"
+           x="370.44571"
+           y="396.74994"
+           ry="0"
+           rx="0" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g55"
+         inkscape:label="CampoNome copiar"
+         transform="translate(169.37352,-30.4056)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
+           id="rect55"
+           width="230.53598"
+           height="1.1181448"
+           x="38.347225"
+           y="96.631798"
+           inkscape:label="camponome" />
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
-       id="g31"
-       inkscape:label="rectFisica copiar"
-       transform="matrix(0.96891308,0,0,1,97.000021,-345.7608)">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
-         id="rect29"
-         width="13.268175"
-         height="12.855709"
-         x="371.22113"
-         y="392.19791"
-         ry="0"
-         rx="0" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
-         id="rect30"
-         width="11.170018"
-         height="10.822777"
-         x="372.2702"
-         y="393.21439"
-         ry="0"
-         rx="0" />
+       id="layer22"
+       inkscape:label="Vínculo1"
+       sodipodi:insensitive="true">
+      <g
+         inkscape:groupmode="layer"
+         id="g31"
+         inkscape:label="rectFisica copiar"
+         transform="matrix(0.96891308,0,0,1,97.000021,-345.7608)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
+           id="rect29"
+           width="13.268175"
+           height="12.855709"
+           x="369.39664"
+           y="395.73346"
+           ry="0"
+           rx="0" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
+           id="rect30"
+           width="11.170018"
+           height="10.822777"
+           x="370.44571"
+           y="396.74994"
+           ry="0"
+           rx="0" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g29"
+         inkscape:label="CampoNome copiar"
+         transform="translate(169.37352,-30.4056)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
+           id="rect27"
+           width="230.53598"
+           height="1.1181448"
+           x="38.347225"
+           y="96.631798"
+           inkscape:label="camponome" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g11"
+       inkscape:label="Vínculo4"
+       transform="translate(0,100)">
+      <g
+         inkscape:groupmode="layer"
+         id="g9"
+         inkscape:label="rectFisica copiar"
+         transform="matrix(0.96891308,0,0,1,97.000021,-345.7608)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
+           id="rect4"
+           width="13.268175"
+           height="12.855709"
+           x="369.39664"
+           y="395.73346"
+           ry="0"
+           rx="0" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
+           id="rect5"
+           width="11.170018"
+           height="10.822777"
+           x="370.44571"
+           y="396.74994"
+           ry="0"
+           rx="0" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g10"
+         inkscape:label="CampoNome copiar"
+         transform="translate(169.37352,-30.4056)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
+           id="rect9"
+           width="230.53598"
+           height="1.1181448"
+           x="38.347225"
+           y="96.631798"
+           inkscape:label="camponome" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g65"
+       inkscape:label="Vínculo3"
+       transform="translate(0,66.666667)">
+      <g
+         inkscape:groupmode="layer"
+         id="g59"
+         inkscape:label="rectFisica copiar"
+         transform="matrix(0.96891308,0,0,1,97.000021,-345.7608)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
+           id="rect57"
+           width="13.268175"
+           height="12.855709"
+           x="369.39664"
+           y="395.73346"
+           ry="0"
+           rx="0" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
+           id="rect58"
+           width="11.170018"
+           height="10.822777"
+           x="370.44571"
+           y="396.74994"
+           ry="0"
+           rx="0" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g61"
+         inkscape:label="CampoNome copiar"
+         transform="translate(169.37352,-30.4056)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
+           id="rect59"
+           width="230.53598"
+           height="1.1181448"
+           x="38.347225"
+           y="96.631798"
+           inkscape:label="camponome" />
+      </g>
     </g>
   </g>
   <g
@@ -203,15 +326,6 @@
      inkscape:label="Talentos"
      style="display:inline"
      transform="translate(1.3167987,294.17062)">
-    <rect
-       style="display:inline;fill:#000000;stroke-width:0.789334"
-       id="rect20"
-       width="345.02463"
-       height="1.5473349"
-       x="501.3082"
-       y="238.76688"
-       inkscape:label="Divisa"
-       sodipodi:insensitive="true" />
     <rect
        style="display:inline;fill:#000000"
        id="rect21"
@@ -490,6 +604,25 @@
          y="453.01688"
          inkscape:label="Linha hab 1" />
     </g>
+    <rect
+       style="display:inline;fill:#4d4d4d;fill-opacity:0.465753;stroke-width:1.0119"
+       id="rect7-1"
+       width="345.74734"
+       height="21.564562"
+       x="501.38168"
+       y="218.82938"
+       inkscape:label="RectHE" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:0.465753"
+       x="501.77304"
+       y="237.91141"
+       id="text8-2"
+       inkscape:label="Habilidade Especiais"><tspan
+         sodipodi:role="line"
+         id="tspan8-3"
+         x="501.77304"
+         y="237.91141">Talentos</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -497,7 +630,7 @@
      inkscape:label="Meio"
      style="display:inline">
     <rect
-       style="fill:#666666;fill-opacity:0.465753"
+       style="fill:#676767;fill-opacity:0.360784"
        id="rect6"
        width="345.7778"
        height="746.37402"
@@ -579,18 +712,18 @@
            x="522.18066"
            y="167.61789"
            id="tspan27"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"><tspan
    id="tspan32"
-   style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal'">Habilidade 1: </tspan>Lorem ipsum dolor sit amet, consectetur </tspan><tspan
+   style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';fill:#000000;fill-opacity:1">Habilidade 1: </tspan>Lorem ipsum dolor sit amet, consectetur </tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="187.61789"
            id="tspan28"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum.</tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="207.61789"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
            id="tspan34">Aliquam nonummy auctor massa.</tspan></text>
     </g>
     <g
@@ -631,18 +764,18 @@
            x="522.18066"
            y="167.61789"
            id="tspan27-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"><tspan
    id="tspan35"
-   style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal'">Habilidade 2: </tspan>Lorem ipsum dolor sit amet, consectetur </tspan><tspan
+   style="font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';fill:#000000;fill-opacity:1">Habilidade 2: </tspan>Lorem ipsum dolor sit amet, consectetur </tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="187.61789"
            id="tspan28-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">adipiscing elit. Etiam eget ligula eu lectus lobortis </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">adipiscing elit. Etiam eget ligula eu lectus lobortis </tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="207.61789"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
            id="tspan37">condimentum.</tspan></text>
     </g>
     <g
@@ -841,18 +974,18 @@
            x="522.18066"
            y="167.61789"
            id="tspan18">Habilidade 6: <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
    id="tspan17">Lorem ipsum dolor sit amet, </tspan></tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="187.61789"
            id="tspan19"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">consectetur adipiscing elit. Etiam eget ligula eu lectus </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">consectetur adipiscing elit. Etiam eget ligula eu lectus </tspan><tspan
            sodipodi:role="line"
            x="522.18066"
            y="207.61789"
            id="tspan20"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">lobortis condimentum. Aliquam nonummy auctor massa.</tspan></text>
     </g>
   </g>
   <g
@@ -912,7 +1045,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Dano"
-     transform="translate(-213.21414,263.75083)">
+     transform="translate(-213.21414,418.60722)">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:61.1111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect75"
@@ -933,7 +1066,7 @@
          x="282.97714"
          y="111.01013">Dano</tspan></text>
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.47;stroke-width:45.0508;paint-order:stroke fill markers"
+       style="fill:#666666;fill-opacity:0.36;stroke-width:45.0508;paint-order:stroke fill markers"
        id="rect3"
        width="20.506096"
        height="110.66221"
@@ -943,13 +1076,13 @@
        rx="0"
        inkscape:label="RectLabel" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:0.47;stroke-width:45.0508;paint-order:stroke fill markers"
+       style="fill:#666666;fill-opacity:0.36;stroke-width:45.0508;paint-order:stroke fill markers"
        id="rect3-5"
        width="20.506096"
        height="110.66221"
        x="507.43091"
        y="113.80552"
-       ry="1.767767"
+       ry="0"
        rx="0"
        inkscape:label="RectLabel" />
     <text
@@ -968,7 +1101,7 @@
          x="517.85101"
          y="211.12154"
          style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000"
-         id="tspan16">Reduz.</tspan><tspan
+         id="tspan1">Reduz.</tspan><tspan
          sodipodi:role="line"
          x="517.85101"
          y="216.72153"
@@ -993,7 +1126,7 @@
        id="text6"
        inkscape:label="txt2"><tspan
          sodipodi:role="line"
-         id="tspan6"
+         id="tspan2"
          x="261.26129"
          y="175.44156">2</tspan></text>
     <text
@@ -1001,10 +1134,10 @@
        style="font-size:24px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:58.56;paint-order:stroke fill markers"
        x="261.64166"
        y="216.49918"
-       id="text7"
+       id="text12"
        inkscape:label="txt1"><tspan
          sodipodi:role="line"
-         id="tspan7"
+         id="tspan12"
          x="261.64166"
          y="216.49918">1</tspan></text>
     <use
@@ -1044,7 +1177,7 @@
          x="517.94482"
          y="135.08047"
          style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000"
-         id="tspan14">Ajuda</tspan></text>
+         id="tspan22">Ajuda</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0.7;font-family:'Crimson Pro';-inkscape-font-specification:'Crimson Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -1061,7 +1194,7 @@
          x="517.88885"
          y="177.17345"
          style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000"
-         id="tspan15" /></text>
+         id="tspan24" /></text>
     <use
        x="0"
        y="0"
@@ -1072,9 +1205,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer18"
+     id="g40"
      inkscape:label="Armadura"
-     transform="matrix(0.96891308,0,0,1,31.008307,0.3679656)">
+     transform="matrix(0.96891308,0,0,1,31.008307,155.22435)">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:51.0298;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect75-6"
@@ -1091,17 +1224,17 @@
        id="text13"
        inkscape:label="txtArmadura"><tspan
          sodipodi:role="line"
-         id="tspan13"
+         id="tspan30"
          x="353.44806"
          y="373.44336">Armadura</tspan></text>
     <g
        inkscape:groupmode="layer"
-       id="layer20"
+       id="g33"
        inkscape:label="Física"
        transform="translate(-4.7397855)">
       <g
          inkscape:groupmode="layer"
-         id="layer19"
+         id="g30"
          inkscape:label="rectFisica"
          transform="translate(0.212179)"
          sodipodi:insensitive="true">
@@ -1133,7 +1266,7 @@
          transform="scale(1.0159155,0.98433384)"
          inkscape:label="txtFisica"><tspan
            sodipodi:role="line"
-           id="tspan17"
+           id="tspan33"
            style="font-size:16.2546px;stroke-width:59.492"
            x="323.76367"
            y="409.45099">Física</tspan></text>
@@ -1150,7 +1283,7 @@
          transform="translate(-1.9810002)">
         <rect
            style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
-           id="rect20"
+           id="rect33"
            width="13.268175"
            height="12.855709"
            x="371.22113"
@@ -1159,7 +1292,7 @@
            rx="0" />
         <rect
            style="fill:#ffffff;fill-opacity:1;stroke-width:32.601;paint-order:stroke fill markers"
-           id="rect21"
+           id="rect34"
            width="11.170018"
            height="10.822777"
            x="372.2702"
@@ -1172,18 +1305,18 @@
          style="font-size:16.2546px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:59.492;paint-order:stroke fill markers"
          x="323.76367"
          y="409.45099"
-         id="text21"
+         id="text36"
          transform="scale(1.0159155,0.98433384)"
          inkscape:label="txtFisica"><tspan
            sodipodi:role="line"
-           id="tspan21"
+           id="tspan36"
            style="font-size:16.2546px;stroke-width:59.492"
            x="323.76367"
            y="409.45099">Pesada</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
-       id="g20"
+       id="g38"
        inkscape:label="Mental"
        transform="translate(95.40834,3.0052038)">
       <g
@@ -1219,7 +1352,7 @@
          transform="scale(1.0159155,0.98433384)"
          inkscape:label="txtFisica"><tspan
            sodipodi:role="line"
-           id="tspan19"
+           id="tspan38"
            style="font-size:16.2546px;stroke-width:59.492"
            x="323.76367"
            y="407.1163">Mental</tspan></text>
@@ -1236,7 +1369,7 @@
          transform="translate(-4.561211)">
         <rect
            style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
-           id="rect22"
+           id="rect38"
            width="13.268175"
            height="12.855709"
            x="371.22113"
@@ -1258,11 +1391,11 @@
          style="font-size:16.2546px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:59.492;paint-order:stroke fill markers"
          x="323.76367"
          y="409.45099"
-         id="text23"
+         id="text39"
          transform="scale(1.0159155,0.98433384)"
          inkscape:label="txtFisica"><tspan
            sodipodi:role="line"
-           id="tspan23"
+           id="tspan39"
            style="font-size:16.2546px;stroke-width:59.492"
            x="323.76367"
            y="409.45099">Escudo</tspan></text>
@@ -1279,7 +1412,7 @@
          transform="translate(-4.561211)">
         <rect
            style="fill:#000000;fill-opacity:1;stroke-width:38.7247;paint-order:stroke fill markers"
-           id="rect24"
+           id="rect39"
            width="13.268175"
            height="12.855709"
            x="371.22113"
@@ -1301,11 +1434,11 @@
          style="font-size:16.2546px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:59.492;paint-order:stroke fill markers"
          x="323.76367"
          y="409.45099"
-         id="text26"
+         id="text40"
          transform="scale(1.0159155,0.98433384)"
          inkscape:label="txtFisica"><tspan
            sodipodi:role="line"
-           id="tspan25"
+           id="tspan40"
            style="font-size:16.2546px;stroke-width:59.492"
            x="323.76367"
            y="409.45099">Especial</tspan></text>
@@ -1323,7 +1456,7 @@
      id="layer8"
      inkscape:label="Esforço"
      inkscape:highlight-color="#82c95a"
-     transform="translate(-1.2423874,-0.99390987)">
+     transform="translate(0.8826126,165.00609)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -1347,9 +1480,9 @@
          x="37.835136"
          y="336.33926">Intensidade</tspan></text>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:78.3297;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:78.0497;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect51"
-       width="278.63977"
+       width="276.65103"
        height="4.7729797"
        x="37.481621"
        y="285.25085"
@@ -1950,7 +2083,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4645px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000011px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
          x="867.91919"
          y="183.19875"
          id="text121"
@@ -1959,7 +2092,7 @@
            id="tspan121"
            x="867.91919"
            y="183.19875"
-           style="font-size:17.4645px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Intelecto</tspan></text>
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1;font-size:16.00000011px">Intelecto</tspan></text>
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14858;stroke-opacity:1"
          id="rect121"
@@ -2179,7 +2312,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4645px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
          x="867.91919"
          y="183.19875"
          id="text101"
@@ -2188,7 +2321,7 @@
            id="tspan101"
            x="867.91919"
            y="183.19875"
-           style="font-size:17.4645px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Carisma</tspan></text>
+           style="font-size:16px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Carisma</tspan></text>
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14858;stroke-opacity:1"
          id="rect101"
@@ -2238,7 +2371,7 @@
            y="250.16084"
            id="text3"><tspan
              sodipodi:role="line"
-             id="tspan2"
+             id="tspan41"
              x="905.98053"
              y="250.16084">Manejar</tspan></text>
       </g>
@@ -2418,7 +2551,7 @@
            id="tspan81"
            x="867.91919"
            y="183.19875"
-           style="font-size:17.4645px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Agilidade</tspan><tspan
+           style="font-size:16px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Agilidade</tspan><tspan
            sodipodi:role="line"
            x="867.91919"
            y="205.02937"
@@ -2557,7 +2690,7 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="g30"
+         id="g41"
          inkscape:label="MarcadorEsforço copiar copiar"
          transform="matrix(0.43478273,0,0,0.43478273,949.40885,70.121641)"
          style="display:inline">
@@ -2642,16 +2775,16 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4645px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1"
          x="867.91919"
          y="183.19875"
          id="text33"
          transform="scale(0.97705989,1.0234787)"><tspan
            sodipodi:role="line"
-           id="tspan33"
+           id="tspan42"
            x="867.91919"
            y="183.19875"
-           style="font-size:17.4645px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Contituição</tspan></text>
+           style="font-size:16px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.977059;stroke-opacity:1">Contituição</tspan></text>
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14858;stroke-opacity:1"
          id="rect62-7"
@@ -2694,16 +2827,16 @@
        inkscape:label="Externo" />
     <text
        xml:space="preserve"
-       style="font-size:16.4286px;display:inline;fill:#000000;stroke-width:0.974754"
+       style="font-size:15.9999999px;display:inline;fill:#000000;stroke-width:0.974754"
        x="876.91095"
        y="135.80939"
-       id="text12"
+       id="text43"
        transform="scale(0.96692714,1.0342041)"><tspan
          sodipodi:role="line"
-         id="tspan12"
+         id="tspan43"
          x="876.91095"
          y="135.80939"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.4286px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#ffffff;stroke-width:0.974754">Cartilha</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';fill:#ffffff;stroke-width:0.974754;font-size:15.9999999px">Cartilha</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="g14"
