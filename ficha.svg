@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showguides="true"
-     inkscape:zoom="1"
-     inkscape:cx="239"
-     inkscape:cy="317.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="635.689"
+     inkscape:cy="198.34345"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer8"
      showgrid="true">
     <sodipodi:guide
        position="38.26553,767.04994"
@@ -68,9 +68,9 @@
        visible="true"
        enabled="false" />
     <sodipodi:guide
-       position="315.01607,408.17616"
+       position="314.75,253.75"
        orientation="1,0"
-       id="guide8"
+       id="guide50"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -110,7 +110,7 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="Vínculos"
-     transform="translate(-169.37352,154.85639)">
+     transform="translate(-169.37352,107.02313)">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:61.1111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect75-1"
@@ -121,15 +121,15 @@
        inkscape:label="rectVinculo" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="263.46463"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="212.38991"
        y="36.274353"
        id="text76-0"
        inkscape:label="txtVinculo"><tspan
          sodipodi:role="line"
          id="tspan76-2"
-         x="263.46463"
-         y="36.274353">Vínculos</tspan></text>
+         x="212.38991"
+         y="36.274353">Vínculos Icônicos</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="g57"
@@ -306,6 +306,93 @@
            inkscape:label="camponome" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="Antecedentes"
+     transform="translate(-178.87352,92.136486)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:61.1111;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect75-1-9"
+       width="186.2897"
+       height="21.862701"
+       x="494.37354"
+       y="32.143608"
+       inkscape:label="rectVinculo" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.7;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:58.56;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="497.56573"
+       y="51.168793"
+       id="text76-0-9"
+       inkscape:label="txtVinculo"><tspan
+         sodipodi:role="line"
+         id="tspan76-2-2"
+         x="497.56573"
+         y="51.168793">Antecedentes</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1.3622"
+       id="rect55-7"
+       width="179.76404"
+       height="0.87188816"
+       x="493.89542"
+       y="80.921837"
+       inkscape:label="campo1"
+       sodipodi:insensitive="true" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect55-7"
+       id="use28"
+       inkscape:label="campo2"
+       transform="translate(0,35.001786)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect55-7"
+       id="use29"
+       inkscape:label="campo3"
+       transform="translate(0,66.998368)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use29"
+       id="use30"
+       inkscape:label="campo4"
+       transform="translate(0,33.46967)" />
+    <rect
+       style="fill:#676767;fill-opacity:0.360784;stroke-width:58.56;paint-order:stroke fill markers"
+       id="rect50"
+       width="186.55704"
+       height="48.539108"
+       x="483.90738"
+       y="176.52667"
+       inkscape:label="DicaRect"
+       transform="translate(9.5,14.886644)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:start;letter-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:58.56;paint-order:stroke fill markers"
+       x="504.14267"
+       y="205.20192"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         x="504.14267"
+         y="205.20192"
+         style="line-height:1"><tspan
+   id="tspan57"
+   style="font-size:16px;line-height:1">+1d para rolagens que</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="504.14267"
+         y="221.20192"
+         id="tspan58"
+         style="line-height:1">Um antecedente se </tspan><tspan
+         sodipodi:role="line"
+         x="504.14267"
+         y="237.20192"
+         id="tspan59"
+         style="line-height:1">encaixa</tspan></text>
   </g>
   <g
      inkscape:label="Cabeçalho"
@@ -783,8 +870,7 @@
        id="layer7-8"
        inkscape:label="Habilidade 3"
        style="display:inline"
-       transform="translate(0.93811904,118.73291)"
-       sodipodi:insensitive="true">
+       transform="translate(0.93811904,118.73291)">
       <g
          inkscape:groupmode="layer"
          id="layer6-0"
@@ -835,8 +921,7 @@
        id="g7"
        inkscape:label="Habilidade 4"
        style="display:inline"
-       transform="translate(0.8167987,177.17062)"
-       sodipodi:insensitive="true">
+       transform="translate(0.8167987,177.17062)">
       <g
          inkscape:groupmode="layer"
          id="g2"
@@ -889,8 +974,7 @@
        id="g16"
        inkscape:label="Habilidade 5"
        style="display:inline"
-       transform="translate(0.8167987,235.17062)"
-       sodipodi:insensitive="true">
+       transform="translate(0.8167987,235.17062)">
       <g
          inkscape:groupmode="layer"
          id="g8"
@@ -995,7 +1079,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="One Unique Thing">
+       inkscape:label="One Unique Thing"
+       transform="translate(230.75,-46)">
       <use
          x="0"
          y="0"
@@ -1006,13 +1091,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1"
-         x="37.77552"
+         x="85.85878"
          y="153.73758"
          id="text10"
          inkscape:label="text10"><tspan
            sodipodi:role="line"
            id="tspan10"
-           x="37.77552"
+           x="85.85878"
            y="153.73758">One Unique Thing</tspan></text>
     </g>
     <g
@@ -1582,15 +1667,13 @@
              sodipodi:role="line"
              x="168.36143"
              y="330.6152"
-             id="tspan66"
-             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"><tspan
-               id="tspan74"
-               style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle">Ação de</tspan></tspan><tspan
+             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
+             id="tspan75">Sem ações</tspan><tspan
              sodipodi:role="line"
              x="168.36143"
              y="336.21521"
              style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
-             id="tspan75">Oposição</tspan></text>
+             id="tspan50">Control.</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1689,13 +1772,13 @@
              sodipodi:role="line"
              x="168.36143"
              y="330.6152"
-             id="tspan55-4"
-             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle">Complica</tspan><tspan
+             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
+             id="tspan73">Ação de</tspan><tspan
              sodipodi:role="line"
              x="168.36143"
              y="336.21521"
              style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
-             id="tspan73">ção</tspan></text>
+             id="tspan49">Oposição</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1790,17 +1873,15 @@
            id="text54"
            inkscape:label="txtIntensidade1"><tspan
              sodipodi:role="line"
-             id="tspan54"
              x="167.25792"
              y="329.90811"
-             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
-             dx="0"
-             dy="0">+1 Esf. </tspan><tspan
+             id="tspan55"
+             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle">Complica</tspan><tspan
              sodipodi:role="line"
              x="167.25792"
              y="335.50812"
-             id="tspan55"
-             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle">para res.</tspan></text>
+             style="font-size:8px;line-height:0.7;text-align:center;letter-spacing:0px;text-anchor:middle"
+             id="tspan47">ção</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1868,6 +1949,24 @@
          y="289.94879"
          inkscape:label="LinhaIntensidade1" />
     </g>
+    <rect
+       style="fill:#676767;fill-opacity:0.360784;stroke-width:58.56;paint-order:stroke fill markers"
+       id="rect50-2"
+       width="186.55704"
+       height="48.539108"
+       x="313.58542"
+       y="292.8934"
+       inkscape:label="DicaRect" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1;font-family:'Mason Serif Regular';-inkscape-font-specification:'Mason Serif Regular, ';text-align:start;letter-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:58.56;paint-order:stroke fill markers"
+       x="314.8674"
+       y="310.2439"
+       id="text63"><tspan
+         sodipodi:role="line"
+         id="tspan63"
+         x="314.8674"
+         y="310.2439">Esforço extra: 2 esf. +1d</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
